@@ -533,6 +533,7 @@ has_manufactory_trigger = { #Province Scope
 				trade_goods = fish
 				trade_goods = salt
 				trade_goods = ir_whales
+				trade_goods = whaling
 			}
 		}
 		has_building = wharf
@@ -554,6 +555,7 @@ has_manufactory_trigger = { #Province Scope
 				trade_goods = silk
 				trade_goods = dyes
 				trade_goods = bt_trade_good_books
+				trade_goods = elysian_silk
 			}
 		}
 		has_building = textile
@@ -566,6 +568,7 @@ has_manufactory_trigger = { #Province Scope
 				trade_goods = spices
 				trade_goods = fur
 				trade_goods = incense
+				trade_goods = seal_hunting
 			}
 		}
 		has_building = tradecompany
@@ -582,6 +585,7 @@ has_manufactory_trigger = { #Province Scope
 				trade_goods = ir_potatoes
 				trade_goods = ir_millet
 				trade_goods = ir_apiculture
+				trade_goods = maize
 			}
 		}
 		has_building = farm_estate
